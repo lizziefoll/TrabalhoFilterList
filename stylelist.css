@@ -1,0 +1,49 @@
+/*https://getbootstrap.com/docs/5.0/getting-started/introduction/*/
+
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+body{
+    background: #FFF3E2;
+    color: black;
+}
+
+#img-topo{
+    background: white;
+}
+
+.input-group-text{
+    background: #FA9884;
+    border-color: #FA9884;
+}
+
+
+.btn-primary {
+    color: white;
+    background-color: #E74646;
+    border-color: white;
+
+}
+
+.container {
+    width: auto;
+    margin: auto;
+}
+
+
+ul {
+    list-style: none;
+    padding: 0;
+    align-items: center;
+
+}
+
+li {
+    background: #E74646;
+    border-radius: 8px;
+    width: 100%;
+    padding: 8px 15px;
+    margin: 5px 0;
+}
